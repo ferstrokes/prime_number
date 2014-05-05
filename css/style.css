@@ -1,0 +1,11 @@
+.mainpanel{
+	margin: 50px;
+}
+
+#result{
+	overflow: auto;
+}
+
+.numberlist{
+	margin:10px;
+}
